@@ -2,4 +2,4 @@
 
 
 
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/codepile/HEAD?urlpath=lab%2Ftree%2Fcodepile.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/codepile/HEAD?filepath=codepile.ipynb)
